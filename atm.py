@@ -21,4 +21,5 @@ if(pin==password):
         print("Your Current Balance is {balance}")
     if(option==2):
         withdraw_amount=int(input("please enter withdraw_amount: "))
+        balance=balance=withdraw_amount
         
